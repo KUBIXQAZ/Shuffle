@@ -1,0 +1,8 @@
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\bin\Debug\Shuffle.exe.config
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\bin\Debug\Shuffle.exe
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\bin\Debug\Shuffle.pdb
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\obj\Debug\Shuffle.csproj.AssemblyReference.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\obj\Debug\Shuffle.csproj.SuggestedBindingRedirects.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\obj\Debug\Shuffle.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\obj\Debug\Shuffle.exe
+D:\PROGRAMMING-PROJECTS\csharp-apps\Shuffle\obj\Debug\Shuffle.pdb
